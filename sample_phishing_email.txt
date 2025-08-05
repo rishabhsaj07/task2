@@ -1,0 +1,13 @@
+From: support@amaz0n-secure.com
+Subject: Your Account is Locked – Immediate Action Required!
+Body:
+Dear user,
+
+We noticed suspicious activity on your account. Please verify your identity immediately by clicking the link below:
+
+https://amaz0n-secure.com/login-verification
+
+Failure to act will result in permanent account suspension.
+
+Thank you,
+Amazon Security Team
